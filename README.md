@@ -11,5 +11,6 @@
  00001205365825sp@al.educacao.sp.gov.br
 
 
-
-![](https://photos.app.goo.gl/5eSdTnqptUavNedb9)
+![]
+(![image](https://github.com/user-attachments/assets/b7bc31e4-3eba-49a8-a84a-69088a414479)
+)
